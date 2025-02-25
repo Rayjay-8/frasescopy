@@ -10,7 +10,16 @@ const messages = [
   "{nome}, sentimos sua falta hoje! Deus tem algo especial pra você, então não perde o próximo, viu?",
   "E aí, {nome}! Não te vi na célula hoje, mas já tô esperando você no próximo. Vai ser bênção!",
   "{nome}, tá tudo bem? Não te vi hoje na célula e senti sua falta! Espero te ver no próximo!",
-  "{nome}, hoje foi incrível, mas teria sido ainda melhor com você lá! No próximo você vem, né?"
+  "{nome}, hoje foi incrível, mas teria sido ainda melhor com você lá! No próximo você vem, né?",
+  "Oi {nome} 😊 Senti sua falta na célula! No próximo você vem, né? Vai ser top! 🙌🔥",
+  "E aí, {nome}! 👋 Sentimos sua falta no Arena hoje. No próximo você não pode perder, certo? 🙏✨ Vai ser uma bênção!",
+  "Fala, {nome}! 👀 A célula não foi a mesma sem você hoje. Bora colar no próximo? 🎉 Faz falta demais!",
+  "Oi {nome} 👋 Senti sua falta na célula hoje! No próximo você vem, né? Vai ser incrível! 🔥",
+  "Ei, {nome}! 💙 Hoje não foi a mesma coisa sem você. Já marca aí o próximo, porque queremos muito te ver! 📅✨",
+  "{nome}, sentimos sua falta hoje! 🙏 Deus tem algo especial pra você, então não perde o próximo, viu? ✨🔥",
+  "E aí, {nome}! 😃 Não te vi na célula hoje, mas já tô esperando você no próximo. Vai ser bênção! 🙌",
+  "{nome}, tá tudo bem? 🤔 Não te vi hoje na célula e senti sua falta! Espero te ver no próximo! 💙",
+  "{nome}, hoje foi incrível 🎉, mas teria sido ainda melhor com você lá! No próximo você vem, né? 👏🔥",
 ];
 
 function App() {
