@@ -42,7 +42,7 @@ const messages: Message[] = [
     type: "célula"
   },
   {
-    text: "{nome}, hoje foi incrível, mas teria sido ainda melhor com você lá! No próximo você vem, né?",
+    text: "{nome}, hoje no Arena foi incrível, mas teria sido ainda melhor com você lá, você vem no próximo né?",
     type: "Arena"
   },
   {
@@ -51,7 +51,7 @@ const messages: Message[] = [
   },
   {
     "text": "E aí, {nome}! 👋 Sentimos sua falta no Arena hoje. No próximo você não pode perder, certo? 🙏✨ Vai ser uma bênção!",
-    "type": "célula"
+    "type": "Arena"
   },
   {
     "text": "Fala, {nome}! 👀 A célula não foi a mesma sem você hoje. Bora colar no próximo? 🎉 Faz falta demais!",
@@ -62,7 +62,7 @@ const messages: Message[] = [
     "type": "célula"
   },
   {
-    "text": "Ei, {nome}! 💙 Hoje não foi a mesma coisa sem você. Já marca aí o próximo, porque queremos muito te ver! 📅✨",
+    "text": "Ei, {nome}! 💙 Hoje não foi a mesma coisa sem você na célula. Já marca aí o próximo, porque queremos muito te ver! 📅✨",
     "type": "célula"
   },
   {
